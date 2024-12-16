@@ -46,7 +46,7 @@
     "typescript": "^4.9.4",
     "vite": "^4.0.3",
     "vite-plugin-eslint": "^1.8.1",
-    "zod": "^3.19.1"
+    "zod": "^3.20.2"
   },
   "devDependencies": {
     "git-commit-msg-linter": "^4.5.0"
